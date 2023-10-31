@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://192.168.34.12:8002/branch/download?name=wow_1.3.19.25400_inner.ipa</string> 
+                    <string>http://192.168.34.12:8002/branch/ios_download?name=wow_1.3.19.25400_inner.ipa</string> 
                 </dict>
             </array>
             <key>metadata</key>
